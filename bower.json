@@ -1,0 +1,16 @@
+{
+  "name": "vectic-angular",
+  "main": "index.js",
+  "homepage": "https://github.com/brush-tail/vectic-client-angular",
+  "authors": [
+    "zeus3rd <zeus3rd@gmail.com>"
+  ],
+  "description": "AngularJS client library for vectic images",
+  "moduleType": [],
+  "keywords": [
+    "vectic",
+    "svg",
+    "vector"
+  ],
+  "license": "Apache-2.0"
+}
