@@ -40,6 +40,7 @@ angular.app('vectic')
       id: '=?',
     },
     link: function($scope, $element, $attr) {
-      $scope.filepath = vectic.path+$scope.id;
+      $scope.filepath = vectic.host + vectic.path + $scope.id;
     },
-});
+  }
+}]);
